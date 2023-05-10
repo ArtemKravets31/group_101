@@ -14,4 +14,14 @@
 	font-size: 21px;
 
 	color: aqua;
-} 
+}
+
+.voronianskiy{
+color : rgb(2, 132, 8); 
+ font-family: Arial;
+font-size: 18pt;	    
+ font-style: italic; 
+ font-weight: bold; 
+ line-height : 20 pt; 
+text-align: justify;  
+}
