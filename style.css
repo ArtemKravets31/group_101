@@ -25,3 +25,12 @@ font-size: 18pt;
  line-height : 20 pt; 
 text-align: justify;  
 }
+.kravets{
+	color : rgb(255, 0, 0); 
+ font-family: Arial;
+font-size: 18pt;	    
+ font-style: italic; 
+ font-weight: bold; 
+ line-height : 20 pt; 
+text-align: justify;  
+}
